@@ -175,7 +175,7 @@ section.resume-section .resume-item .resume-date {
   }
 }
 
-.bg-primary {
+.bg-primary{
   background-color: #546e7a !important;
 }
 
@@ -190,3 +190,24 @@ a {
 a:hover, a:focus, a:active {
   color: #824027;
 }
+.container {
+  position: relative;
+  width: 100%;
+}
+
+.image {
+  display: block;
+  width: 5%;
+  height: auto;
+
+}
+
+#project1Img:hover {
+  opacity: 0.6;
+}
+#project2Img:hover {
+  opacity: 0.6;
+}
+
+
+
