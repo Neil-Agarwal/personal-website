@@ -209,5 +209,13 @@ a:hover, a:focus, a:active {
   opacity: 0.6;
 }
 
+.indented {
+  padding-left: 50pt;
+}
+
+.hangingindent {
+  padding-left: 22px ;
+  text-indent: -22px ;
+}
 
 
