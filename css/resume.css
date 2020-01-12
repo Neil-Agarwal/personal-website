@@ -208,6 +208,9 @@ a:hover, a:focus, a:active {
 #project2Img:hover {
   opacity: 0.6;
 }
+#project3Img:hover {
+  opacity: 0.6;
+}
 
 .indented {
   padding-left: 50pt;
